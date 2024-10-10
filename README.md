@@ -2,7 +2,6 @@
 
 I'm a **Front End Developer** from *Laboratoria* and a **Business Administrator** from *La Salle University*.
 
-- 🔭 I’m currently working on [Burguer Queen Laboratoria](https://github.com/Laboratoria/BOG004-burger-queen)
 - 🌱 I’m currently learning *React.js*
 - 💬 Ask me about *HTML*, *JS*, *CSS* or *React.js*
 - 📫 How to reach me: [LinkedIn Angela Becerra](https://www.linkedin.com/in/angela-becerra-front-end-developer-javascript/)
